@@ -4,8 +4,8 @@ Currently the diwali festival is going on.I am currently enjoying my diwali holi
 Along with the enjoyment i have started my journey towards the basics of DevOps.
 Today, I ran my first docker image,it contained an nginx webpage also learnt the basics of Docker.
 Also revised and learnt some of the basic Linux commands.
-Today as well as yesterday i wasted a lot of time for installing docker nd linux.
-After installation at the time of reebooting my laptop was giving the "KMOD exeption not handled" error.
+Today as well as yesterday i wasted a lot of time for installing docker and linux.
+After installation at the time of rebooting,my laptop was giving the "KMOD exeption not handled" error.
 After a lot of tries i gave up on it.Insted i started using the VM's of "Killercoda" platform.
 It already had linux,docker and kubernetes packages which i could use for free.
 Just the session has a time limit of 1 hour,but i could start a lot of free sessions as much i wanted.
