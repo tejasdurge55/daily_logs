@@ -14,3 +14,10 @@ I have started to write these daily logs so that i can constantly keep on practi
 I had previously made a commit on github a month ago.Today i have forgotten even how to do that :(
 So,i have decided to update my daily logs and DSA java practice codes everyday to track my progress.
 I hope that i may stay consistent and hardworking towards my future journey.
+
+# 28th Oct 2022
+Created my first docker image and uploaded it on my new dockerhub account.
+Posted my recent achievements/progress regerding learning linux,git,docker on Linkedin.
+Revised git commands.
+Tried solving 4 easy level problems on leetcode.they were based on 1d and 2d arrays.
+Was able to solve 3 correctly,but was unable to solve the "Maximum Subarray" problem on leetcode.
