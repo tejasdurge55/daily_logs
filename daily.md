@@ -28,5 +28,13 @@ I don't know why whenever my father is home, i feel like taking a bread and i ju
 I watched some anime and read some manhwas.Anyway it felt a bit relaxing and i just enjoyed the day.
 
 # 30th Oct 2022,Sunday
-Today also i wasted my day.Read some new manhwas today and they were pretty good considering it was a romZZ
+Today also i wasted my day.Read some new manhwas today and they were pretty good considering it was a romcom
+manga also the manhwa has become my favorite romcom manhwa.its name is angel x demon, cant live together.
+
+#26th Nov 2022,Saturday
+Once again my learning streak has been broken.Had a few examinations and my B.Tech practical exams and project submission.
+Yesterday i started with the basics of chef.Also learnt a basic syntax of ruby language.
+Currently its 10:33 am and i am gonna continue with chef and maybe revise a few syntax of git.
+Been nearly a month since i have used git.
+
 
