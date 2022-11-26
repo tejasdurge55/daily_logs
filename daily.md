@@ -22,4 +22,11 @@ Revised git commands.
 Tried solving 4 easy level problems on leetcode.they were based on 1d and 2d arrays.
 Was able to solve 3 correctly,but was unable to solve the "Maximum Subarray" problem on leetcode.
 
+# 29th Oct 2022,Saturday
+My dad came back from his solo trip of ladakh back to home in Pune.
+I don't know why whenever my father is home, i feel like taking a bread and i just wasted this day too.
+I watched some anime and read some manhwas.Anyway it felt a bit relaxing and i just enjoyed the day.
+
+# 30th Oct 2022,Sunday
+Today also i wasted my day.Read some new manhwas today and they were pretty good considering it was a romZZ
 
