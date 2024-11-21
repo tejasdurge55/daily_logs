@@ -1,7 +1,7 @@
-kubectl -n management logs --all-containers deploy/collect-data > /root/logs.log
+```kubectl -n management logs --all-containers deploy/collect-data > /root/logs.log```
 
 Tip:
-k -n management edit deploy collect-data
+```k -n management edit deploy collect-data```
 
 Solution:
 Delete one of the containers
