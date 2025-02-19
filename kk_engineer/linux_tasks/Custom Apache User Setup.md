@@ -8,7 +8,7 @@ sudo useradd -u 1755 -d /var/www/kareem kareem
               |       |			  |
       userid(UID)     home directory     user
 ```
-
+```
     1  sudo useradd -u 1755 -d /var/www/kareem kareem
     2  cat /etc/passwd
        kareem:x:1755:1755::/var/www/kareem:/bin/bash  -- 
@@ -22,6 +22,7 @@ sudo useradd -u 1755 -d /var/www/kareem kareem
    10  ls -la
   
 ```
+```
 ls -la
 total 12
 drwxr-xr-x  3 root   root 4096 Feb 19 09:32 .
@@ -31,11 +32,17 @@ drwxr-xr-x  2 kareem root 4096 Feb 19 09:32 kareem
 The format contains a few columns. Let's try to understand them:
 
 permissions. Here we can see what kind of permission has the object. We will work with permissions... soon :)
+
 number of hard links. By default every object has 1 hard link. What are links? We will learn it in 18th lesson.
+
 Owner. The owner of the object. It doesn't mean who created it, but who owns it at this moment.
+
 Group. Owner belongs to the group (of users). This inforation is here too. This means that our 'groupmates' have specific access to the file.
+
 Size. File size in bytes.
+
 date and time of last modification of the object.
+
 file name.
 
 Owner and group. For now it will be enough to know that we see on the listing above the names of the users and groups. The system keeps and translates them from numerical representation. These are UID for user identifier and GID for group identifier. We can list this information in numeric wayby entering the
