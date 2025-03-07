@@ -11,7 +11,7 @@ gdisk /dev/vdb
 n
 default
 500+
-default
+Choose a partition type (e.g., 8300 for Linux).
 w
 
 ```
